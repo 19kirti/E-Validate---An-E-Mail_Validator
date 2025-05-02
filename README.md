@@ -1,4 +1,4 @@
-# An E-Mail Validator 
+# E-Validate : An E-Mail Validator 
 
 ![ss](https://github.com/user-attachments/assets/7acbdc5a-f031-41a4-b894-07d6c621fd8f)
 
